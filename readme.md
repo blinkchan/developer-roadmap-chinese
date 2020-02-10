@@ -1,6 +1,6 @@
-![Web Developer Roadmap - 2019](https://i.imgur.com/s5cCV9q.png)
+![Web Developer Roadmap - 2020](https://camo.githubusercontent.com/f22bb956aacd059ef8819c40c55e49e700b0ea49/68747470733a2f2f692e696d6775722e636f6d2f4e4e796339514d2e706e67)
 
-> 2019 年成為 Web 開發人員的路線圖
+> 2020 年成為 Web 開發人員的路線圖
 
 在下方，你會看到一系列的圖表，展示為了成為前端、後端或 DevOps 開發人員，你可以採取的路徑和你會想採用的技術。我為我的一位老教授做了這些圖表，他想和大學生分享一些東西，給他們一個觀點；在這裡分享它們以幫助社群。
 
